@@ -129,19 +129,19 @@ These insights validate the importance of feature engineering in supervised lear
 # 9. Challenges and Solutions
 
 ### Challenge 1: Outliers in Retail Data
-Retail transactions contain extreme values.
+Retail transactions contain extreme values.  
 Solution: Applied filtering and regularization to stabilize model behavior.
 
 ### Challenge 2: Overfitting Risk
-Initial models showed variance between training and testing results.
+Initial models showed variance between training and testing results.  
 Solution: Implemented Ridge/Lasso regression and cross-validation.
 
 ### Challenge 3: Feature Selection
-Too many features increased complexity.
+Too many features increased complexity.  
 Solution: Used correlation analysis and domain logic to select relevant predictors.
 
 ### Challenge 4: Data Preparation Consistency
-Date parsing and categorical encoding required careful handling.
+Date parsing and categorical encoding required careful handling.  
 Solution: Explicit preprocessing steps were documented and applied systematically.
 
 ---
